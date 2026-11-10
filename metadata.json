@@ -1,0 +1,6 @@
+{
+  "name": "PaperDeconstruct - Academic Research Agent",
+  "description": "Deconstruct academic research papers into core hypotheses, methodology metrics, critical limitations, and executive digests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
